@@ -15,5 +15,5 @@
 homepage: "https://github.com/drimlon/wps-cookie-consent"
 documentation: "https://github.com/drimlon/wps-cookie-consent/wiki"
 versions:
-  - sha: bf3a6a91e1ac8b69098bee1b0ff90fb6a39b7cb2
+  - sha: 32af56010c719206d76ac7bce782dd2692530a06
     changeNotes: Initial version
