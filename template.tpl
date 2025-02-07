@@ -748,5 +748,3 @@ ___NOTES___
 = GTM Template 1.0.0: Feb 4, 2025 =
 
 * Initial version
-
-
