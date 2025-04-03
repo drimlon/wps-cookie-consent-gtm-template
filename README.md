@@ -128,4 +128,4 @@ Ak ste si všimli nejaké chyby šablóny, prosím
 
 ## License
 
-Apache License 2.0, skontrolujte súbor [`License`](./License).
+Apache License 2.0, skontrolujte súbor [`License`](./LICENSE).
